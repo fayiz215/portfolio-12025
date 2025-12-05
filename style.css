@@ -448,6 +448,30 @@ font-size: 50px;
     margin-left: 20px;
     margin-bottom: 25px;
 }
+.project-card1 {
+    background: #0f172b;
+    border: 0.1px solid #25262a;
+    height:400px ;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    transition: 0.3s ease-in-out;
+     
+}
+
+.project-card1:hover {
+    transform: translateY(-5px);
+    box-shadow: 1px 1px 25px 1px rgba(0, 123, 255, 0.47);
+ 
+}
+.project-card1 img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
 
 
 
@@ -467,6 +491,29 @@ font-size: 50px;
     color: #007bff;
     margin-left: 20px;
     margin-bottom: 25px;
+}
+.project-card2 {
+    background: #0f172b;
+    border: 0.1px solid #25262a;
+    height:400px ;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    transition: 0.3s ease-in-out;
+     
+}
+.project-card2:hover {
+    transform: translateY(-5px);
+    box-shadow: 1px 1px 25px 1px rgba(0, 123, 255, 0.47);
+ 
+}
+.project-card2 img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-top: 15px;
+    margin-bottom: 10px;
 }
 
 
