@@ -144,7 +144,7 @@ for (let i = 0; i < englishProjects.length; i++) {
     const project = englishProjects[i];
 
     const card = document.createElement("div");
-    card.className = "project-card1";
+    card.className = "project-card";
 
     const img = document.createElement("img");
     img.src = project.image;
@@ -207,7 +207,7 @@ for (let i = 0; i < mulzamProjects.length; i++) {
     const project = mulzamProjects[i];
 
     const card = document.createElement("div");
-    card.className = "project-card2";
+    card.className = "project-card";
 
     const img = document.createElement("img");
     img.src = project.image;
