@@ -180,21 +180,21 @@ const mulzamProjects = [
     {
         title: "i'rob poster",
         image: "img/irobposter.png",
-        description: "A concise educational poster that explains the i‘rāb (grammatical analysis) of Surah An-Nās verses 2 and 3, presented with clear structure, simple visuals, and easy-to-understand breakdowns for students.",
+        description: "A simple poster explaining the i‘rāb of Surah An-Nās verses 2–3.",
         tags: ["I'rob", "Nahwu", "Poster"],
         link: "https://drive.google.com/drive/folders/1B6r0bDZKWc0NIyqdrNdl9F-lFz3AI2tw?usp=drive_link"
     },
     {
         title: "i'rob video",
         image: "img/irobvideo.gif",
-        description: "A short educational video that explains the i‘rāb (grammatical structure) of Surah An-Nās verses 2 and 3, presented with clear narration, simple visuals, and easy-to-follow explanations for learners.",
+        description: "A short video explaining the i‘rāb of Surah An-Nās verses 2–3.",
         tags: ["I'rob", "Nahwu", "Video"],
         link: "https://drive.google.com/drive/folders/1eQOzPx131lA0u7xAWQGi0aI-lOPVOTP-?usp=sharing"
     },
     {
         title: "Matan Al Ajrumiyah-Nahwu Book",
         image: "img/matan.jpg",
-        description: "A concise introductory book on Arabic grammar (nahwu), presenting essential rules in a clear, structured, and easy-to-memorize format for beginners.",
+        description: "A brief beginner-friendly book on Arabic grammar",
         tags: ["Nawhu", "Book"],
         link: "https://andridm72.wordpress.com/wp-content/uploads/2014/12/al-jurmiyah.pdf"
     }
