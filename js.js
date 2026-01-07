@@ -192,11 +192,11 @@ const mulzamProjects = [
         link: "https://drive.google.com/drive/folders/1eQOzPx131lA0u7xAWQGi0aI-lOPVOTP-?usp=sharing"
     },
     {
-        title: "Matan Al Ajrumiyah-Nahwu Book",
-        image: "img/matan.jpg",
-        description: "A brief beginner-friendly book on Arabic grammar",
-        tags: ["Nawhu", "Book"],
-        link: "https://andridm72.wordpress.com/wp-content/uploads/2014/12/al-jurmiyah.pdf"
+        title: "tugas rumah",
+        image: "img/tugasrumah.jpg",
+        description: "tugas yang dikasih pondok",
+        tags: ["pekerjaan rumah", "tugas"],
+        link: "https://drive.google.com/drive/folders/1sTGcwWMVuJUP72hfa9QvMu-1EZvGtMfq?usp=sharing"
     }
 ];
 
